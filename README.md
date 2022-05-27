@@ -1,6 +1,6 @@
 # Instruction for the entire project
  for this program you need to clone two repositories, the first one is this repositry (Chat-App-Server), and the second repository is under this account
- under the name Chat-App-Client, here's a link https://github.com/YONATAN-LAHAV/Chat-App-Client .
+ under the name Chat-App-Client, here's a link https://github.com/RoyMaman13/Client-Side-Chat .
  
  ## Chat-App-Server instructions
  after cloning Chat-App-Server repository, do the following :
